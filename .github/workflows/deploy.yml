@@ -35,3 +35,5 @@ jobs:
           protocol: ftp
           port: 21
           server-dir: /domains/citimedhospital.co.ke/public_html/
+          local-dir: ui/dist/ui/
+
