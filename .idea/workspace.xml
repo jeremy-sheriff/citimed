@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dae299d4-6ed4-4822-aa1a-3879ac0d46cf" name="Changes" comment="Build the UI">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
-    </list>
+    <list default="true" id="dae299d4-6ed4-4822-aa1a-3879ac0d46cf" name="Changes" comment="Build the UI" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -211,7 +209,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1751097418122</updated>
-      <workItem from="1751097420019" duration="5358000" />
+      <workItem from="1751097420019" duration="5793000" />
     </task>
     <task id="LOCAL-00001" summary="Pipeline">
       <option name="closed" value="true" />
@@ -245,7 +243,23 @@
       <option name="project" value="LOCAL" />
       <updated>1751112369897</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Build the UI">
+      <option name="closed" value="true" />
+      <created>1751112404259</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1751112404259</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Build the UI">
+      <option name="closed" value="true" />
+      <created>1751112526422</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1751112526422</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
